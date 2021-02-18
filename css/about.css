@@ -1,0 +1,21 @@
+.rightabt{
+    width: 40%;
+    float: right;
+    margin-top: 100px;
+}
+.leftabt{
+    width: 50%;
+    float: left;
+    margin-top: 300px;
+}
+
+.rightabt h1{
+    color:rgba(234, 242, 255, 0.76);
+}
+.rightabt h2{
+    color: rgba(255, 255, 255, 0.76);
+}
+
+.rightabt p{
+    color:rgb(255, 255, 255);
+}

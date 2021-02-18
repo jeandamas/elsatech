@@ -1,0 +1,25 @@
+.leftserv{
+    width: 40%;
+    float: left;
+    margin-top: 100px;
+}
+.rightserv{
+    width: 55%;
+    float: right;
+    margin-top: 100px;
+}
+
+.leftserv h1{
+    color: rgba(238, 238, 240, 0.76);
+}
+
+.leftserv p{
+    color: rgb(233, 233, 233);
+}
+li{
+    color:aliceblue;
+    font-size: 20px;
+}
+ul{
+    background-color: rgba(55, 59, 63, 0.404);
+}
